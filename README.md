@@ -1,9 +1,10 @@
 # Supplementary materials for the adjustable dispersion compensation unit paper
 
-The original paper ***Compact and adjustable compensator for AOD spatial and temporal dispersion using off-the-shelf components*** can be found on [*Optics Letters*](https://doi.org/10.1364/OL.419682) page: https://doi.org/10.1364/OL.419682.
+The original paper ***Compact and adjustable compensator for AOD spatial and temporal dispersion using off-the-shelf components*** can be found [*here*](https://github.com/Y-Akihiro/Dispersion-Compensation-Unit/blob/main/documents/ol-46-7-1644.pdf) or on [*Optics Letters*](https://doi.org/10.1364/OL.419682) (https://doi.org/10.1364/OL.419682).
 
 ## Description
 This repository contains supplementary materials for the adjustable dispersion compensation paper under two direcotries:
+* *documents* - contains the paper and a supplementary document.
 * *data* - contains original .cvs data .
 >>The autocorrelation data were recorded with an autocorrelator (FR-103TPM, FEMTOCHROME Research, Inc.) with an oscilloscope (Tektronix TDS2024C) in a .csv format. 
 * *code* - contains MATLAB and Python codes used to analyze and plot data.
@@ -25,7 +26,7 @@ Running `.py` and `.py` will generate Figure 2 and 3 in the paper as shown beow:
 
 
 ## License
-Codes are released under the [x License]. 
+TBA 
 
 
 ## Contact
