@@ -1,6 +1,6 @@
 # Supplementary materials for a compact and adjustable dispersion compensation unit
 
-The original paper ***Compact and adjustable compensator for AOD spatial and temporal dispersion using off-the-shelf components*** can be found [*here*](https://github.com/Y-Akihiro/Dispersion-Compensation-Unit/blob/main/documents/ol-46-7-1644.pdf) or on [*Optics Letters*](https://doi.org/10.1364/OL.419682) (https://doi.org/10.1364/OL.419682).
+The original paper ***Compact and adjustable compensator for AOD spatial and temporal dispersion using off-the-shelf components*** can be found [*here*](https://github.com/Y-Akihiro/Dispersion-Compensation-Unit/blob/main/documents/ol-46-7-1644.pdf) or on [*Optics Letters*](https://www.osapublishing.org/ol/home.cfm) (https://doi.org/10.1364/OL.419682).
 
 ## Description
 This repository contains supplementary materials for the adjustable dispersion compensation paper under the following directories:
@@ -29,7 +29,7 @@ The following software and packages were used for design and analysis:
 The compact compensator was designed with Autodesk Inventor 2017. The only custom part is the baseplate and all the other parts were purchased from [*Thorlabs*](https://www.thorlabs.com/) and [*Wasatch Photonics*](https://wasatchphotonics.com/product/800-lmm-at-1030nm/).
 The lists of purchased items are available under [*Item List*](https://github.com/Y-Akihiro/Dispersion-Compensation-Unit/tree/main/Item%20List).
 
-A 3D model of the compensator created on Inventor: 
+A 3D model of the compensator was created on Inventor. The 3D models of the optical components (.sldprt files) were downloaded from [*Thorlabs*](https://www.thorlabs.com/) and converted to .ipt format.
 <p align="center">
 	<img width="500" src="https://github.com/Y-Akihiro/Dispersion-Compensation-Unit/blob/main/img/Inventor_design.png">
 </p>
