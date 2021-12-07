@@ -11,15 +11,6 @@ This repository contains supplementary materials for the adjustable dispersion c
 * *Item List* - contains the lists of items purchased from Thorlabs and Wasatch Photonics.
 * *img* - contains images of the compensator design and the setup.
 
-## Compensator Design
-The compact compensator was designed with Autodesk Inventor 2017. The only custom part is the baseplate and all the other parts were purchased from [*Thorlabs*](https://www.thorlabs.com/) and [*Wasatch Photonics*](https://wasatchphotonics.com/product/800-lmm-at-1030nm/).
-The item lists are available under [*Item List*](https://github.com/Y-Akihiro/Dispersion-Compensation-Unit/tree/main/Item%20List).
-
-<p align="center">
-	<img width="500" src="https://github.com/Y-Akihiro/Dispersion-Compensation-Unit/blob/main/img/Inventor_design.png">
-</p>
-
-
 ## Software & Packages
 
 The following software and packages were used for design and analysis:
@@ -31,14 +22,17 @@ The following software and packages were used for design and analysis:
 	* Packages: numpy, scipy, matplotlib
 	* Used to analyze data (fitting) and make plots.
 
-## Screenshots
-Running `.py` and `.py` will generate Figure 2 and 3 in the paper as shown beow:
+## Compensator Design
+The compact compensator was designed with Autodesk Inventor 2017. The only custom part is the baseplate and all the other parts were purchased from [*Thorlabs*](https://www.thorlabs.com/) and [*Wasatch Photonics*](https://wasatchphotonics.com/product/800-lmm-at-1030nm/).
+The lists of purchased items are available under [*Item List*](https://github.com/Y-Akihiro/Dispersion-Compensation-Unit/tree/main/Item%20List).
 
-
+A 3D model of the compensator created on Inventor: 
+<p align="center">
+	<img width="500" src="https://github.com/Y-Akihiro/Dispersion-Compensation-Unit/blob/main/img/Inventor_design.png">
+</p>
 
 ## License
 TBA 
-
 
 ## Contact
 
