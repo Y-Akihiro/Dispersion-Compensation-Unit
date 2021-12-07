@@ -9,6 +9,11 @@ This repository contains supplementary materials for the adjustable dispersion c
 >>The autocorrelation data were recorded with an autocorrelator (FR-103TPM, FEMTOCHROME Research, Inc.) with an oscilloscope (Tektronix TDS2024C) in a .csv format. 
 * *code* - contains MATLAB and Python codes used to analyze and plot data.
 
+## Compensator Design & Parts List
+The compact compensator was designed with Autodesk Inventor 2017. The only custom part is the baseplate and all the other parts were purchased from [*Thorlabs*](https://www.thorlabs.com/) and [*Wasatch Photonics*](https://wasatchphotonics.com/product/800-lmm-at-1030nm/).
+
+The lists of parts are available under Item List folder.
+
 ## Software & Packages
 
 The following software and packages were used for design and analysis:
