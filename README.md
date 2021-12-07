@@ -5,9 +5,6 @@ The original paper ***Compact and adjustable compensator for AOD spatial and tem
 ## Description
 This repository contains supplementary materials for the adjustable dispersion compensation paper under the following directories:
 * *documents* - contains the paper and a supplementary document.
-* *data* - contains original .cvs data .
->>The autocorrelation data were recorded with an autocorrelator (FR-103TPM, FEMTOCHROME Research, Inc.) with an oscilloscope (Tektronix TDS2024C) in a .csv format. 
-* *code* - contains MATLAB and Python codes used to analyze and plot data.
 * *Item List* - contains the lists of items purchased from Thorlabs and Wasatch Photonics.
 * *img* - contains images of the compensator design and the setup.
 
