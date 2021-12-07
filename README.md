@@ -10,10 +10,11 @@ This repository contains supplementary materials for the adjustable dispersion c
 
 ## Software & Packages
 
-The following software and packages were used for the analysis:
-
+The following software and packages were used for design and analysis:
+* Autodesk Inventor 2017 and 2021
+	* Used to design the compensation unit base plate and make a 3D model of the compensation unit.
 * MATLAB 2020a
-	* Used to analyze the original .csv file
+	* Used to analyze the original .csv file.
 * Python 3.7
 	* Packages: numpy, scipy, matplotlib
 	* Used to analyze data (fitting) and make plots.
