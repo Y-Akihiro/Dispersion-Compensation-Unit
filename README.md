@@ -1,4 +1,4 @@
-# Supplementary materials for the adjustable dispersion compensation unit paper
+# Supplementary materials for a compact and adjustable dispersion compensation unit
 
 The original paper ***Compact and adjustable compensator for AOD spatial and temporal dispersion using off-the-shelf components*** can be found [*here*](https://github.com/Y-Akihiro/Dispersion-Compensation-Unit/blob/main/documents/ol-46-7-1644.pdf) or on [*Optics Letters*](https://doi.org/10.1364/OL.419682) (https://doi.org/10.1364/OL.419682).
 
