@@ -15,7 +15,7 @@ This repository contains supplementary materials for the adjustable dispersion c
 The compact compensator was designed with Autodesk Inventor 2017. The only custom part is the baseplate and all the other parts were purchased from [*Thorlabs*](https://www.thorlabs.com/) and [*Wasatch Photonics*](https://wasatchphotonics.com/product/800-lmm-at-1030nm/).
 The item lists are available under [*Item List*](https://github.com/Y-Akihiro/Dispersion-Compensation-Unit/tree/main/Item%20List).
 
-![image](https://github.com/Y-Akihiro/Dispersion-Compensation-Unit/blob/main/img/baseplate_top_view.png?raw=true)
+![image](https://github.com/Y-Akihiro/Dispersion-Compensation-Unit/blob/main/img/baseplate_top_view.png)
 
 
 
