@@ -16,7 +16,7 @@ The compact compensator was designed with Autodesk Inventor 2017. The only custo
 The item lists are available under [*Item List*](https://github.com/Y-Akihiro/Dispersion-Compensation-Unit/tree/main/Item%20List).
 
 <p align="center">
-	<img width="400" src="https://github.com/Y-Akihiro/Dispersion-Compensation-Unit/blob/main/img/Inventor_design.png">
+	<img width="500" src="https://github.com/Y-Akihiro/Dispersion-Compensation-Unit/blob/main/img/Inventor_design.png">
 </p>
 
 
