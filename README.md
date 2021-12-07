@@ -5,6 +5,11 @@ The original paper ***Compact and adjustable compensator for AOD spatial and tem
 ## Description
 This repository contains supplementary materials for the adjustable dispersion compensation paper under the following directories:
 * *documents* - contains the paper and a supplementary document.
+* *baseplate design* - contains an Inventor (.ipt) file.
+>>
+<p align="center">
+	<img width="300" src="https://github.com/Y-Akihiro/Dispersion-Compensation-Unit/blob/main/img/baseplate.png">
+</p>
 * *Item List* - contains the lists of items purchased from Thorlabs and Wasatch Photonics.
 * *img* - contains images of the compensator design and the setup.
 
@@ -27,6 +32,8 @@ A 3D model of the compensator created on Inventor:
 <p align="center">
 	<img width="500" src="https://github.com/Y-Akihiro/Dispersion-Compensation-Unit/blob/main/img/Inventor_design.png">
 </p>
+
+The base plate was designed on Inventor and ordered from [*protolabs*](https://www.protolabs.com/).
 
 ## License
 TBA 
