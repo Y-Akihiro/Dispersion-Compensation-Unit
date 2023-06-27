@@ -8,7 +8,8 @@ This repository contains supplementary materials for the adjustable dispersion c
 * *baseplate design* - contains an Inventor (.ipt) file.
 >>
 <p align="center">
-	<img width="300" src="https://github.com/Y-Akihiro/Dispersion-Compensation-Unit/blob/main/img/baseplate.png">
+	<img width="40%" src="https://github.com/Y-Akihiro/Dispersion-Compensation-Unit/blob/main/img/baseplate.png">
+	<img width="40%" src="https://github.com/Y-Akihiro/Dispersion-Compensation-Unit/blob/main/img/baseplate_sketch.png">
 </p>
 
 * *Item List* - contains the lists of items purchased from Thorlabs and Wasatch Photonics.
@@ -31,7 +32,7 @@ The lists of purchased items are available under [*Item List*](https://github.co
 
 A 3D model of the compensator was created on Inventor. The 3D models of the optical components (.sldprt files) were downloaded from [*Thorlabs*](https://www.thorlabs.com/) and converted to .ipt format.
 <p align="center">
-	<img width="500" src="https://github.com/Y-Akihiro/Dispersion-Compensation-Unit/blob/main/img/Inventor_design.png">
+	<img width="60%" src="https://github.com/Y-Akihiro/Dispersion-Compensation-Unit/blob/main/img/Inventor_design.png">
 </p>
 
 The base plate was designed on Inventor and ordered from [*protolabs*](https://www.protolabs.com/).
